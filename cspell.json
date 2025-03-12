@@ -4,34 +4,15 @@
 		".all-contributorsrc",
 		".github",
 		"CHANGELOG.md",
-		"coverage",
 		"lib",
 		"node_modules",
 		"pnpm-lock.yaml"
 	],
 	"words": [
-		"10.4.0",
-		"access",
 		"apexskier",
 		"automerge",
-		"dependencies",
-		"description",
-		"devDependencies",
-		"directory",
-		"everything",
-		"GitHub",
-		"github-default-labels",
 		"joshuakgoldberg",
 		"markdownlintignore",
-		"packageData",
-		"pnpm",
-		"preset",
-		"public",
-		"repository",
-		"scripts",
-		"Static",
-		"title",
-		"tseslint",
-		"usage"
+		"tseslint"
 	]
 }
