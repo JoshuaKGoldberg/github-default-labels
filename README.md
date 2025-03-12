@@ -23,11 +23,24 @@
 npm i github-default-labels
 ```
 
-```ts
-import { greet } from "github-default-labels";
+Exports a single array, `githubDefaultLabels`, whose elements are objects containing:
 
-greet("Hello, world! 💖");
+- `color`
+- `description`
+- `name`
+
+```ts
+import { githubDefaultLabels } from "github-default-labels";
+
+// {
+// 	color: "7057ff",
+// 	description: "Indicates a good issue for first-time contributors",
+// 	name: "good first issue",
+// }
+githubDefaultLabels.find((label) => label.name === "good first issue");
 ```
+
+See [GitHub Docs > Labels and milestones > Managing labels > About default labels](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels#about-default-labels).
 
 ## Development
 
