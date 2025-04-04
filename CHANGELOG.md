@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.1](https://github.com/JoshuaKGoldberg/github-default-labels/compare/0.1.0...0.1.1) (2025-04-04)
+
+### Bug Fixes
+
+- bump to create-typescript-app@2 with transitions action ([#27](https://github.com/JoshuaKGoldberg/github-default-labels/issues/27)) ([601ff4b](https://github.com/JoshuaKGoldberg/github-default-labels/commit/601ff4bafaea8582ec9eed772748962e4dfcfa7e)), closes [#26](https://github.com/JoshuaKGoldberg/github-default-labels/issues/26)
+
 # 0.1.0 (2025-03-12)
 
 ### Features

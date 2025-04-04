@@ -1,6 +1,6 @@
 {
 	"name": "github-default-labels",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Static export of GitHub's default labels. 🗂",
 	"repository": {
 		"type": "git",
