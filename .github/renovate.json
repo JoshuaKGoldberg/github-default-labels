@@ -6,7 +6,6 @@
 		"config:best-practices",
 		"replacements:all"
 	],
-	"ignoreDeps": ["codecov/codecov-action"],
 	"labels": ["dependencies"],
 	"minimumReleaseAge": "7 days",
 	"packageRules": [
@@ -17,6 +16,8 @@
 			"matchFileNames": [".github/workflows/ci.yaml"]
 		}
 	],
-	"patch": { "enabled": false },
+	"patch": {
+		"enabled": false
+	},
 	"postUpdateOptions": ["pnpmDedupe"]
 }
