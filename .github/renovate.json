@@ -16,8 +16,6 @@
 			"matchFileNames": [".github/workflows/ci.yaml"]
 		}
 	],
-	"patch": {
-		"enabled": false
-	},
+	"patch": { "enabled": false },
 	"postUpdateOptions": ["pnpmDedupe"]
 }
