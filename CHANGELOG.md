@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.2](https://github.com/JoshuaKGoldberg/github-default-labels/compare/0.1.1...0.1.2) (2026-11-24)
+
+### Bug Fixes
+
+- bump to create-typescript-app@2.87.18 ([#428](https://github.com/JoshuaKGoldberg/github-default-labels/issues/428)) ([e1c4864](https://github.com/JoshuaKGoldberg/github-default-labels/commit/e1c48643adaf60e5dc43352067aecced8330b5d2)), closes [#427](https://github.com/JoshuaKGoldberg/github-default-labels/issues/427)
+
 ## [0.1.1](https://github.com/JoshuaKGoldberg/github-default-labels/compare/0.1.0...0.1.1) (2025-04-04)
 
 ### Bug Fixes
